@@ -3,7 +3,7 @@
 ## Ejemplo realizado para el space apps 2019 por parte de ZaragozaMakerSpace
 
 
-###Aquí tenemos nuestros ingredientes.
+### Aquí tenemos nuestros ingredientes.
 
 .- 1 Wemos (LOLIN) D1 R2
 .- OLED I2C (0.98'') (libreria SSD1306Wire)
